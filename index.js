@@ -9,7 +9,7 @@ app.get("/", function (req, res) {
 const dotenv = require("dotenv").config();
 
 const cors = require("cors");
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 8000;
 
 app.use(cors());
 // parse requests of content-type - application/json
