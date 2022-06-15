@@ -1,0 +1,22 @@
+{
+  "name": "heroku_serverup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humeira-Brainerhub/Heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Humeira-Brainerhub/Heroku/issues"
+  },
+  "homepage": "https://github.com/Humeira-Brainerhub/Heroku#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
